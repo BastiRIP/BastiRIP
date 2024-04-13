@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BastiRIP
-- 👀 I’m interested in ioBroker, Homeautomation and Python
-- 🌱 I’m currently learning something about ioBroker
+- 👀 I’m interested in HTML, CSS, JS
+- 🌱 I’m currently doin a materclass for HTML/CSS Frontend development
 - 💞️ I’m looking to collaborate on ...
 - 📫 you can reach me over email :) 
 
